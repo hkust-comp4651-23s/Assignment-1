@@ -4,10 +4,10 @@
 
 ---
 
-### Name: 
-### Student Id:
+### Name: WAN,SHUHAN
+### Student Id: 20760357
 
-### Email:
+### Email: swanaf@connect.ust.hk
 
 ---
 
