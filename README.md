@@ -1,2 +1,3 @@
-# Assignment_1
-Assignment 1 for HKUST COMP4651 in 23' Spring
+# Assignment-1
+
+This is Assignment 1 of COMP4651 23' Spring.
